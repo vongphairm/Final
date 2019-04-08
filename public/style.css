@@ -1,0 +1,10 @@
+.dd{
+    background:red;
+}
+.card{
+    background-image:url('background.jpg') !important;
+
+}
+body{
+    background: red;
+}
